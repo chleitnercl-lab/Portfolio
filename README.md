@@ -6,8 +6,6 @@ Programm Portfolio
 
 Dieses Portfolio, soll einen Überblick über meine Programmierkenntnisse geben.
 
-Es befinden sich hautsächlich Beispielcode in dieser Kollektion.
-
 
 
 risk.cob - hierbei handelt es sich um ein in Cobol geschriebenes Programm, welches den Punktestand bei Risiko mit zählt.
